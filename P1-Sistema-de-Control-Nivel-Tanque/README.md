@@ -15,4 +15,4 @@ Control de Nivel de un Tanque de agua, para el llenado y vaciado automático/man
 - **Simulación:** S7-PLCSIM + Factory I/O
 - **Lenguaje:** LAD (Ladder)
 
-[alt text](./Imagenes/Control-Tanque.PNG)
+![alt text](./Imagenes/Control-Tanque.PNG)
