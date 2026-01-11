@@ -1,7 +1,7 @@
 #  Sistema de Control de Nivel para Tanque
 
 ## 📋 Descripción
-Control de Nivel de un Tanque de agua, para el llenado y vaciado automático/manual del tanque.
+Control de Nivel de un Tanque de agua, para el llenado y vaciado automático/manual.
 
 ## 🎯 Objetivos del Proyecto
 - Implementar lógica de control Ladder
