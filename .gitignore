@@ -1,6 +1,7 @@
 # TIA PORTAL
 *.backup
 Control-Tanque
+Control-Temp-Hum
 
 # Factory I/O
 FACTORY-IO
