@@ -1,4 +1,4 @@
-# Sistema de Control de Temperatura y Humedad
+# Cinta Transportadora con Detección de Objetos
 
 ## 📋 Descripción  
 Sistema de control para cinta transportadora con sensor para detectar objetos y llevar un conteo. Cuenta con un
