@@ -2,6 +2,7 @@
 *.backup
 Control-Tanque
 Control-Temp-Hum
+Control-Cinta-Transportadora
 
 # Factory I/O
 FACTORY-IO
