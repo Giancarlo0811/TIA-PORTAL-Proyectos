@@ -11,3 +11,6 @@ Proyectos de automatización y control industrial en TIA PORTAL V18 para practic
 
 - ### 🔗 [P3: Cinta Transportadora con Detección de Objetos](./P3-Cinta-Transportadora-con-Deteccion-de-Objetos/)
     Control de cinta transportadora con sensores, conteo de cajas y HMI
+
+- ### 🔗 [P4: Control PID Tanque](./P4-Control-PID-Tanque)
+    Control PID para el llenado de un tanque de agua
