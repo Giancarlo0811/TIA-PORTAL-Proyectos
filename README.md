@@ -14,3 +14,6 @@ Proyectos de automatización y control industrial en TIA PORTAL V18 para practic
 
 - ### 🔗 [P4: Control PID Tanque](./P4-Control-PID-Tanque)
     Control PID para el llenado de un tanque de agua
+
+- ### 🔗 [P5: Automatización de Ascensor](./P5-Automatizacion-Ascensor/)
+    Control automatizado de un ascensor de 4 pisos
